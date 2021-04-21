@@ -1,4 +1,4 @@
-# Dynamic Management View library
+# Neutti Dynamic Admin Web View library
 
 ## use
 

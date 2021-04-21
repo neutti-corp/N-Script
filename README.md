@@ -8,3 +8,7 @@
 1. OpenLayers - https://openlayers.org
 1. CKEditor - https://ckeditor.com
 1. Chart.js - https://www.chartjs.org
+
+```javascript
+    var page = new N.Page("page1",[])
+```

@@ -9,6 +9,8 @@
 1. CKEditor - https://ckeditor.com
 1. Chart.js - https://www.chartjs.org
 
+## use
+
 ```javascript
     var page = new N.Page("page1",[])
 ```

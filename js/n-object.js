@@ -1,0 +1,3 @@
+N.Object = function(){
+
+}
